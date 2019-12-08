@@ -19,7 +19,7 @@ class Contacts extends Component {
                                         key={contact.id}
                                         contact={contact}
                                     />
-                                    )
+                                )
                             }
                         </React.Fragment>
                     )
